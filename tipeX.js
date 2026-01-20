@@ -30,6 +30,7 @@ console.log("unknowm", "тип", typeof unknowm,
 console.log("empty", "тип", typeof empty,
  "значение",empty)
 
+ 
  let human = {};
  console.log("human", "тип", typeof human,
   "значение",human)
